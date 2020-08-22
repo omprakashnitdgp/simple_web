@@ -7,7 +7,7 @@ include_once '../objects/doctor.php';
 // get database connection
 $database = new Database();
 $db = $database->getConnection();
- 
+
 // prepare doctor object
 $doctor = new Doctor($db);
  

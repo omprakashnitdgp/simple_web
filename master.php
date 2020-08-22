@@ -113,8 +113,8 @@
               </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="/medibed/doctor/create.php">Create Doctor</a></li>
-            <li><a href="/medibed/doctor">All Doctors</a></li>
+            <li><a href="/doctor/create.php">Create Doctor</a></li>
+            <li><a href="/doctor">All Doctors</a></li>
           </ul>
         </li>
       </ul>
